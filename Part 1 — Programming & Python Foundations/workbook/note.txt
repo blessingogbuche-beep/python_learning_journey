@@ -1,0 +1,58 @@
+Explain the following idea in your own words:
+
+> **Why should you design the solution before writing code?**
+
+Don't give a textbook definition.
+
+Explain it as if you're teaching another beginner.
+""" i have to design a solution before writing, so that i can determine what the input,process section and the output will be
+"""
+
+Ai coorection:
+A model answer
+
+“Before you write code, plan the solution, like planning a trip before
+ you drive. If you start typing without a plan, you often find halfway
+  through that you don’t know what the program needs, what it should 
+  do with it, or what it should show at the end. Then you stop, delete 
+  code and start again. A plan answers three things first: what goes in
+   (input), what the program does with it (process) and what comes out 
+   (output). Then writing code is just turning your plan into Python,
+    and you make fewer mistakes.”
+
+    A program needs to calculate the total cost of three football 
+    jerseys.
+
+Identify:
+
+```text
+Input:
+-
+
+Process:
+-
+
+Output:
+solution
+
+
+
+    Input:
+The price of one football jersey (for example 25) and the number of jerseys (3).
+
+Process:
+Multiply the price of one jersey by 3 to get the total cost.
+
+Output:
+Display the total cost of the three jerseys (for example 75).
+
+#! Write an algorithm for:
+
+ Determine the total number of goals scored in two matches.
+
+first declare a variable like:
+goal for the first match is 3 
+goal for second match is 4
+next is to add the number of goals
+and store it in a variable name total
+after which you print the value of the total.

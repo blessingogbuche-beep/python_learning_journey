@@ -56,3 +56,21 @@ jersey: {Jersey}
 
 "{Message}"
 """)
+
+
+jersey_price = 30
+quantity = 3
+
+total = jersey_price * quantity
+print(total)
+
+
+goal_match1 = 3
+goal_match2 = 4
+total =  goal_match1 + goal_match2
+print("total goals:", total)
+
+
+print("player:", "David")
+print("position:", "Defender")
+print("jersey:", 19)

@@ -1091,13 +1091,13 @@ Do not write Python.
 
 ### Problem 3
 
-A program needs to display:
+4
+```A program needs to display:
 
 ```text
 Player: David
 Position: Defender
-Jersey: 4
-```
+Jersey: 
 
 Write the Python code.
 
