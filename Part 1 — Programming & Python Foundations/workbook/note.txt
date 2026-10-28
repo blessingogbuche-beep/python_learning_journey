@@ -56,3 +56,102 @@ goal for second match is 4
 next is to add the number of goals
 and store it in a variable name total
 after which you print the value of the total.
+
+What is programming?
+What is an algorithm?
+What does Input → Process → Output describe?
+What is a statement?
+What is an expression?
+How does Python normally run statements?
+What does print() do?
+
+Predict the output (write it exactly):
+
+python
+print("Academy")
+print(5)
+print(2 + 3)
+print("2 + 3")
+
+Find the problem:
+
+python
+print("Football Academy"
+print("Welcome")
+
+Explain what’s wrong before you fix it.
+
+Explain it: Why should you design the solution before writing code? 
+Answer as if you’re teaching another beginner.
+
+Paste all your answers and I’ll grade them. Short answers are fine. 
+After this, we’ll do the Skill Check, which is the batch’s final test.
+
+ solution
+ 1. programming is an instructions given to the computer to perform 
+ a specific task
+ 2.algorithm is a step by step procedure to perform a task
+ 3.input is the information the computer start ,the accepted data
+    process is  what the computer does with the accepted data
+    output display the information it accepted
+
+4. a statement can be refer to as this print(10 + 5) whhile 
+5 expression can be seen as print("10 + 7")
+6python run a statement in this manner like (10 + 5) it give 
+it output to to be 15 i.e seeing it an integer
+7.print() it responsible for sending out message or output on the 
+computer screen
+8 predicting the output:
+  Academy
+  5
+  5
+  5
+
+9. print("Football Academy" here the closing bracket is missing
+   print("Welcome")
+   to fix it 
+   print("Football Academy")
+   print("Welcome")
+
+10.you should design a solution before writing it  because ofthe 
+expected input,what might go wrong the expected output 
+
+Then write your algorithm in plain English, with numbered steps and
+ no Python words like “declare” or “variable”. Finally, write the 
+ Python code and run it.
+Input:
+- Home team: Arsenal
+- Away team: Chelsea
+- Home goals: 2
+- Away goals: 1
+
+Process:
+- Add the two goal numbers to get the total goals
+
+Output:
+- The match, the score and the total goals
+
+step2 Algorithm
+1. Get the home team and away team names.
+2. Get the goals for each team.
+3. Add the goals together.
+4. Display the teams, the score and the total goals.
+
+Step 3: Python code (your job)
+#input
+home_team = "Arsenal"
+away_team = "Chelsea"
+home_goals = 2
+away_goals = 1
+
+#process
+total_goals = home_goals + away_goals
+
+#output
+print("Match:", home_team, "vs", away_team)
+# write the score line here
+# write the total goals line here
+
+Match: Arsenal vs Chelsea
+Score: 2 - 1
+Total goals: 3

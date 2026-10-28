@@ -74,3 +74,41 @@ print("total goals:", total)
 print("player:", "David")
 print("position:", "Defender")
 print("jersey:", 19)
+
+#write a programthat calculate the total of 3 product
+
+#input
+product1 = 50
+product2 = 45
+product3 = 40
+
+#process
+total = product1 + product2 + product3
+
+#output
+print("Total:", total)
+
+#change from cencius to fahrenheit(when censius = 20)
+censius = 20 
+fahrenheit = censius * 9 / 5 + 32
+print("fahrenheit:", fahrenheit)
+
+
+#change from fahrenheit to censius(when censius = 68)
+
+fahrenheit = 68
+censius = (fahrenheit -32) * 5 / 9
+print("censius:", censius)
+
+
+print("Hello")    # displays the text Hello
+print(42)         # displays the number 42
+print(10 + 5)     # Python calculates first, then displays 15
+print("10 + 5")   # quotes make it text, so it displays 10 + 5
+
+print("25")
+print(25)
+
+print("Welcome to Football Academy")
+print("Player registration open")
+print("Good luck!")
