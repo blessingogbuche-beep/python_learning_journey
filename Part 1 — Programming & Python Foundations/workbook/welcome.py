@@ -1,4 +1,4 @@
-# print("Player")
+            # print("Player")
 # print(10)
 # print(10 + 7)
 # print("Goals")
@@ -112,3 +112,25 @@ print(25)
 print("Welcome to Football Academy")
 print("Player registration open")
 print("Good luck!")
+
+print("Name: Alex")
+print("Food: Rice")
+print("Hobby: Football")
+print("Goal: Become a python developer")
+
+print(25)
+print("25")
+
+print("""=====================
+     {WALLET APP}
+=====================
+        Check Balance
+        Deposite Money
+        Withdraw Money
+        Transfer Money
+         EXit
+         """)
+
+print("he said \"hello\".")
+
+                     
