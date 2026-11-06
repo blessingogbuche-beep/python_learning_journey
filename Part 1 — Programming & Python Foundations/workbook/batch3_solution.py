@@ -54,8 +54,49 @@ print(new_balance)
 
 wallet, savings,cash = 50000,20000,10000
 print(wallet, savings, cash)
+print()
+
+balance = 100000
+balance = balance - 25000
+balance = balance + 15000
+balance = balance - 10000
+
+print(balance)
+
+print()
+
+
+price = 2000
+discount = 500
+final_price = price - discount
+print(final_price)
+
+product = "shoes"
+product_price = 10000
+quantity = 2
+subtotal  = product_price * quantity
+discount = 2000
+final_total = subtotal - discount
+
+print("====================")
+print("     RECEIPT")
+print("===================")
+print()
+
+print("Product:", product)
+print(f"Price:  \u20a6{product_price}")
+print(f"Quantity: {quantity}")
+print(f"Total: \u20a6{subtotal}")
+print(f"Discount: \u20a6{discount}")
+print(f"Total: \u20a6{final_total}")
 
 
 
+product_price = 5000
+quantity = 3
+
+total = productprice * quantity
+
+print(total)
 
 
