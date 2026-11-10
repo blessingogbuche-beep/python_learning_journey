@@ -203,6 +203,19 @@ player_name = "Alex"
 wallet_balance = 50000
 product_price = 3500
 total_cost = 14000
+
+#the following are pyhton keywords
+if
+else
+for
+while
+class
+def
+return
+True
+False
+None
+
 ```
 
 

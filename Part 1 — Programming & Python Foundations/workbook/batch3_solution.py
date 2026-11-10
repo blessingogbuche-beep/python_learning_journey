@@ -90,13 +90,40 @@ print(f"Total: \u20a6{subtotal}")
 print(f"Discount: \u20a6{discount}")
 print(f"Total: \u20a6{final_total}")
 
+print()
+
 
 
 product_price = 5000
 quantity = 3
 
-total = productprice * quantity
+total = product_price * quantity
 
-print(total)
+print("total_cost:", total)
+
+#multiple assignment
+
+player_name, player_age, player_position = "Alex", 25, 19
+print()
+
+#practice 10
+player_name = "Conto"
+matches = 4
+goals = 8
+assists = 2
+
+total_contributions = goals + assists
+
+print("player_name:", player_name )
+print("Matches:", matches)
+print("Goals:", goals)
+print("Assists:", assists)
+print("Total_contributions:", total_contributions)
+
+average_goals = goals/matches
+print("Average:", average_goals)
+
+#mini challenge
+opening_
 
 
