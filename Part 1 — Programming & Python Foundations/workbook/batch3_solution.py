@@ -124,6 +124,33 @@ average_goals = goals/matches
 print("Average:", average_goals)
 
 #mini challenge
-opening_
+print()
+
+card = "PLAYER_CARD"
+player_name = "Tobby"
+age = 15
+position = "Forward"
+jersey = 11
+goals = 12
+assists = 7
+
+
+total_contributions =  goals + assists
+
+
+print(f"""======================
+     {card}
+======================
+Player_name: {player_name}
+Age: {age}
+Position: {position}
+Jersey: {jersey}
+Goals: {goals}
+Assists: {assists}
+Contributions: {total_contributions}""")
+
+
+
+                     
 
 

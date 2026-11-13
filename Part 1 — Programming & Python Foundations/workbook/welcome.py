@@ -122,15 +122,13 @@ print(25)
 print("25")
 
 print("""=====================
-     {WALLET APP}
+     {WALLET_APP}
 =====================
-        Check Balance
-        Deposite Money
-        Withdraw Money
-        Transfer Money
-         EXit
+     Check Balance
+     Deposite Money
+     Withdraw Money
+     Transfer Money
+     EXit
          """)
 
-print("he said \"hello\".")
 
-                     
