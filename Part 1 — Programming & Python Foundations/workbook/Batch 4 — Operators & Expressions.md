@@ -449,7 +449,7 @@ Calculate how much each person receives.
 
 ---
 
-## Exercise 4 — Remaining Items
+#
 
 A store has:
 

@@ -29,7 +29,7 @@ But imagine your program needs to remember:
 * a number of goals
 * a user's age
 * the name of a store
-
+https://github.com/blessingogbuche-beep/python_learning_journey.git
 We need a way to **give those values names**.
 
 That's where variables come in.
