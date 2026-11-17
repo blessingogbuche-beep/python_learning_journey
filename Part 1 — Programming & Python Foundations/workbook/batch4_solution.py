@@ -67,6 +67,57 @@ print()
 
 # 🧪 PREDICTION CHALLENGE
 
+balance = 50000
+
+print(balance > 10000 and balance < 100000)
+print(balance < 10000 or balance == 50000)
+print(not balance == 50000)
+
+print()
+
+#BASIC ORDER
+
+balance = 100000
+deposit = 25000
+withdrawal = 30000
+fee = 500
+
+final_balance = balance + deposit - withdrawal - fee
+print(final_balance)
+print()
+
+#STORE CHALLENGE
+
+
+price = 5000
+quantity = 3
+discount = 2000
+
+total = price * quantity - discount
+print(total)
+
+print()
+
+balance = 20000
+deposit = 5000
+withdrawal = 10000
+fee = 1000
+
+balance += deposit
+balance -= withdrawal 
+balance -= fee
+
+can_withdraw = withdrawal <= balance
+
+print(balance)
+print(can_withdraw)
+
+
+
+
+
+
+
 
 
 
