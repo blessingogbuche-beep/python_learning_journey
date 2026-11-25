@@ -150,6 +150,21 @@ print(name.find("o"))
 print(name.startswith("chris"))
 print(name.endswith("obi"))
 
+name = "  chris  "
+name.strip()
+print(name)
+
+print()
+name = name.strip()
+print(name)
+
+print()
+
+name = input("Enter name: ").strip().title()q
+
+
+
+
 
  
 
