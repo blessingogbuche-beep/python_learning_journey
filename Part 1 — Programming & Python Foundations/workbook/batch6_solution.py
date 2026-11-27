@@ -160,11 +160,33 @@ print(name)
 
 print()
 
-name = input("Enter name: ").strip().title()q
+name = input("Enter your name: ").strip().title()
 
+ #CHECKING TEXT (BOOLEAN RESULTS)
 
+email = "chris@gmail.com"
+print("@"in email)
+print("gmail" in email)
+print(email.endswith(".com"))
+print(email.startswith("chris"))
 
+"12345".isdigit()
+"abc".isalpha()
+"abc".isdigit()
+print()
 
+#f-STRING FORMATTING (REVIEW + STRETCH)
+print(f"{'Item':<10}{'Price':>10}")
+print(f"{'Laptop':<10}{250000:>10,}")
+# Code	Meaning
+# <10	left-align in 10 characters
+# >10	right-align in 10 characters
+# ^10	centre in 10 characters
+print()
 
- 
+name = "chris"
+print("Hello" + name + "!")
 
+name = "chris"
+balance = 500000
+print(f"{name} has ₦{balance:,.2f}")
